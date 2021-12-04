@@ -1,0 +1,26 @@
+exports.listEstudiantes=[
+    {
+        idEstudiante:1,
+        idComponente:1,
+        name:"Victor",
+        last_name:"Martinez"
+    },
+    {
+        idEstudiante:2,
+        idComponente:1,
+        name:"Juan",
+        last_name:"Yanagomez"
+    },
+    {
+        idEstudiante:2,
+        idComponente:1,
+        name:"Jonathan",
+        last_name:"Herrera"
+    },
+    {
+        idEstudiante:3,
+        idComponente:1,
+        name:"Jose",
+        last_name:"Pullaguari"
+    },
+]
