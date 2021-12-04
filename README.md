@@ -3,3 +3,5 @@ Creación de api-rest full con Hateas para examen bimestral
 Para la hacer correr el proyecto
 ejecutar  el comando  
 # npm init o npm install
+Luego ejectae el comando
+# npm run start
